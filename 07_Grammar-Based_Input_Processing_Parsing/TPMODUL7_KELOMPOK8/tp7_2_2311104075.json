@@ -1,0 +1,16 @@
+{
+  "Courses": [
+    {
+      "Code": "IF101",
+      "Name": "Algoritma dan Pemrograman"
+    },
+    {
+      "Code": "IF102",
+      "Name": "Struktur Data"
+    },
+    {
+      "Code": "IF103",
+      "Name": "Basis Data"
+    }
+  ]
+}
