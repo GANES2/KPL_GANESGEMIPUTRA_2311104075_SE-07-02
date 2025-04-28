@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Praktikum Konstruksi Perangkat Lunak\\02_Pengenalan_IDE_dan_Pemrograman_CSharp\\TP_MODUL2_GANESGEMIPUTRA\\TP_MODUL5_GANESGEMIPUTRA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2751DAD8-F74B-4CC8-88D5-CC4C7D647158}|TP_MODUL5_GANESGEMIPUTRA\\TP_MODUL5_GANESGEMIPUTRA.csproj|d:\\praktikum konstruksi perangkat lunak\\02_pengenalan_ide_dan_pemrograman_csharp\\tp_modul2_ganesgemiputra\\tp_modul5_ganesgemiputra\\tp_modul5_ganesgemiputra\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2751DAD8-F74B-4CC8-88D5-CC4C7D647158}|TP_MODUL5_GANESGEMIPUTRA\\TP_MODUL5_GANESGEMIPUTRA.csproj|solutionrelative:tp_modul5_ganesgemiputra\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2751DAD8-F74B-4CC8-88D5-CC4C7D647158}|TP_MODUL5_GANESGEMIPUTRA\\TP_MODUL5_GANESGEMIPUTRA.csproj|d:\\praktikum konstruksi perangkat lunak\\02_pengenalan_ide_dan_pemrograman_csharp\\tp_modul2_ganesgemiputra\\tp_modul5_ganesgemiputra\\tp_modul5_ganesgemiputra\\numberprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2751DAD8-F74B-4CC8-88D5-CC4C7D647158}|TP_MODUL5_GANESGEMIPUTRA\\TP_MODUL5_GANESGEMIPUTRA.csproj|solutionrelative:tp_modul5_ganesgemiputra\\numberprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2751DAD8-F74B-4CC8-88D5-CC4C7D647158}|TP_MODUL5_GANESGEMIPUTRA\\TP_MODUL5_GANESGEMIPUTRA.csproj|d:\\praktikum konstruksi perangkat lunak\\02_pengenalan_ide_dan_pemrograman_csharp\\tp_modul2_ganesgemiputra\\tp_modul5_ganesgemiputra\\tp_modul5_ganesgemiputra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2751DAD8-F74B-4CC8-88D5-CC4C7D647158}|TP_MODUL5_GANESGEMIPUTRA\\TP_MODUL5_GANESGEMIPUTRA.csproj|solutionrelative:tp_modul5_ganesgemiputra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "D:\\Praktikum Konstruksi Perangkat Lunak\\02_Pengenalan_IDE_dan_Pemrograman_CSharp\\TP_MODUL2_GANESGEMIPUTRA\\TP_MODUL5_GANESGEMIPUTRA\\TP_MODUL5_GANESGEMIPUTRA\\Utilities.cs",
+              "RelativeDocumentMoniker": "TP_MODUL5_GANESGEMIPUTRA\\Utilities.cs",
+              "ToolTip": "D:\\Praktikum Konstruksi Perangkat Lunak\\02_Pengenalan_IDE_dan_Pemrograman_CSharp\\TP_MODUL2_GANESGEMIPUTRA\\TP_MODUL5_GANESGEMIPUTRA\\TP_MODUL5_GANESGEMIPUTRA\\Utilities.cs",
+              "RelativeToolTip": "TP_MODUL5_GANESGEMIPUTRA\\Utilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:13:34.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NumberProcessor.cs",
+              "DocumentMoniker": "D:\\Praktikum Konstruksi Perangkat Lunak\\02_Pengenalan_IDE_dan_Pemrograman_CSharp\\TP_MODUL2_GANESGEMIPUTRA\\TP_MODUL5_GANESGEMIPUTRA\\TP_MODUL5_GANESGEMIPUTRA\\NumberProcessor.cs",
+              "RelativeDocumentMoniker": "TP_MODUL5_GANESGEMIPUTRA\\NumberProcessor.cs",
+              "ToolTip": "D:\\Praktikum Konstruksi Perangkat Lunak\\02_Pengenalan_IDE_dan_Pemrograman_CSharp\\TP_MODUL2_GANESGEMIPUTRA\\TP_MODUL5_GANESGEMIPUTRA\\TP_MODUL5_GANESGEMIPUTRA\\NumberProcessor.cs",
+              "RelativeToolTip": "TP_MODUL5_GANESGEMIPUTRA\\NumberProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:12:56.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Praktikum Konstruksi Perangkat Lunak\\02_Pengenalan_IDE_dan_Pemrograman_CSharp\\TP_MODUL2_GANESGEMIPUTRA\\TP_MODUL5_GANESGEMIPUTRA\\TP_MODUL5_GANESGEMIPUTRA\\Program.cs",
+              "RelativeDocumentMoniker": "TP_MODUL5_GANESGEMIPUTRA\\Program.cs",
+              "ToolTip": "D:\\Praktikum Konstruksi Perangkat Lunak\\02_Pengenalan_IDE_dan_Pemrograman_CSharp\\TP_MODUL2_GANESGEMIPUTRA\\TP_MODUL5_GANESGEMIPUTRA\\TP_MODUL5_GANESGEMIPUTRA\\Program.cs",
+              "RelativeToolTip": "TP_MODUL5_GANESGEMIPUTRA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:10:53.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
