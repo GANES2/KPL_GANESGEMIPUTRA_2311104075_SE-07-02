@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Praktikum Konstruksi Perangkat Lunak\\08_Runtime_Configuration_dan_Internationalization\\GUIDED8\\JURNALl9_2311104075\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{361C8750-A10B-41C2-9759-45F5FA2CD18C}|JURNALl9_2311104075\\JURNALl9_2311104075.csproj|d:\\praktikum konstruksi perangkat lunak\\08_runtime_configuration_dan_internationalization\\guided8\\jurnall9_2311104075\\jurnall9_2311104075\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361C8750-A10B-41C2-9759-45F5FA2CD18C}|JURNALl9_2311104075\\JURNALl9_2311104075.csproj|solutionrelative:jurnall9_2311104075\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361C8750-A10B-41C2-9759-45F5FA2CD18C}|JURNALl9_2311104075\\JURNALl9_2311104075.csproj|d:\\praktikum konstruksi perangkat lunak\\08_runtime_configuration_dan_internationalization\\guided8\\jurnall9_2311104075\\jurnall9_2311104075\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361C8750-A10B-41C2-9759-45F5FA2CD18C}|JURNALl9_2311104075\\JURNALl9_2311104075.csproj|solutionrelative:jurnall9_2311104075\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361C8750-A10B-41C2-9759-45F5FA2CD18C}|JURNALl9_2311104075\\JURNALl9_2311104075.csproj|d:\\praktikum konstruksi perangkat lunak\\08_runtime_configuration_dan_internationalization\\guided8\\jurnall9_2311104075\\jurnall9_2311104075\\jurnall9_2311104075.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{361C8750-A10B-41C2-9759-45F5FA2CD18C}|JURNALl9_2311104075\\JURNALl9_2311104075.csproj|solutionrelative:jurnall9_2311104075\\jurnall9_2311104075.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361C8750-A10B-41C2-9759-45F5FA2CD18C}|JURNALl9_2311104075\\JURNALl9_2311104075.csproj|d:\\praktikum konstruksi perangkat lunak\\08_runtime_configuration_dan_internationalization\\guided8\\jurnall9_2311104075\\jurnall9_2311104075\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361C8750-A10B-41C2-9759-45F5FA2CD18C}|JURNALl9_2311104075\\JURNALl9_2311104075.csproj|solutionrelative:jurnall9_2311104075\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\Praktikum Konstruksi Perangkat Lunak\\08_Runtime_Configuration_dan_Internationalization\\GUIDED8\\JURNALl9_2311104075\\JURNALl9_2311104075\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "JURNALl9_2311104075\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\Praktikum Konstruksi Perangkat Lunak\\08_Runtime_Configuration_dan_Internationalization\\GUIDED8\\JURNALl9_2311104075\\JURNALl9_2311104075\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "JURNALl9_2311104075\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T01:53:38.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JURNALl9_2311104075",
+              "DocumentMoniker": "D:\\Praktikum Konstruksi Perangkat Lunak\\08_Runtime_Configuration_dan_Internationalization\\GUIDED8\\JURNALl9_2311104075\\JURNALl9_2311104075\\JURNALl9_2311104075.csproj",
+              "RelativeDocumentMoniker": "JURNALl9_2311104075\\JURNALl9_2311104075.csproj",
+              "ToolTip": "D:\\Praktikum Konstruksi Perangkat Lunak\\08_Runtime_Configuration_dan_Internationalization\\GUIDED8\\JURNALl9_2311104075\\JURNALl9_2311104075\\JURNALl9_2311104075.csproj",
+              "RelativeToolTip": "JURNALl9_2311104075\\JURNALl9_2311104075.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T01:52:38.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\Praktikum Konstruksi Perangkat Lunak\\08_Runtime_Configuration_dan_Internationalization\\GUIDED8\\JURNALl9_2311104075\\JURNALl9_2311104075\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "JURNALl9_2311104075\\Models\\Movie.cs",
+              "ToolTip": "D:\\Praktikum Konstruksi Perangkat Lunak\\08_Runtime_Configuration_dan_Internationalization\\GUIDED8\\JURNALl9_2311104075\\JURNALl9_2311104075\\Models\\Movie.cs",
+              "RelativeToolTip": "JURNALl9_2311104075\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T01:52:50.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Praktikum Konstruksi Perangkat Lunak\\08_Runtime_Configuration_dan_Internationalization\\GUIDED8\\JURNALl9_2311104075\\JURNALl9_2311104075\\Program.cs",
+              "RelativeDocumentMoniker": "JURNALl9_2311104075\\Program.cs",
+              "ToolTip": "D:\\Praktikum Konstruksi Perangkat Lunak\\08_Runtime_Configuration_dan_Internationalization\\GUIDED8\\JURNALl9_2311104075\\JURNALl9_2311104075\\Program.cs",
+              "RelativeToolTip": "JURNALl9_2311104075\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T01:52:12.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

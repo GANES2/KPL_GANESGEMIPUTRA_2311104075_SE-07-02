@@ -1,0 +1,6 @@
+@TP_MODUL9_GANESGEMIPUTRA_HostAddress = http://localhost:5259
+
+GET {{TP_MODUL9_GANESGEMIPUTRA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
