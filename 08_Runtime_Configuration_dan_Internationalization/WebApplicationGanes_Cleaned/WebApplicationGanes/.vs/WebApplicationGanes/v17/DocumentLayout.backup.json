@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repo Praktikum Kpl\\08_Runtime_Configuration_dan_Internationalization\\Guided Modul 8 Ganes\\WebApplicationGanes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2636EFA9-098E-4112-A9AD-DBF58E57DA1D}|WebApplicationGanes\\WebApplicationGanes.csproj|d:\\repo praktikum kpl\\08_runtime_configuration_dan_internationalization\\guided modul 8 Ganes\\webapplicationGanes\\webapplicationGanes\\fr.po||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2636EFA9-098E-4112-A9AD-DBF58E57DA1D}|WebApplicationGanes\\WebApplicationGanes.csproj|solutionrelative:webapplicationGanes\\fr.po||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2636EFA9-098E-4112-A9AD-DBF58E57DA1D}|WebApplicationGanes\\WebApplicationGanes.csproj|d:\\repo praktikum kpl\\08_runtime_configuration_dan_internationalization\\guided modul 8 Ganes\\webapplicationGanes\\webapplicationGanes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2636EFA9-098E-4112-A9AD-DBF58E57DA1D}|WebApplicationGanes\\WebApplicationGanes.csproj|solutionrelative:webapplicationGanes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2636EFA9-098E-4112-A9AD-DBF58E57DA1D}|WebApplicationGanes\\WebApplicationGanes.csproj|d:\\repo praktikum kpl\\08_runtime_configuration_dan_internationalization\\guided modul 8 Ganes\\webapplicationGanes\\webapplicationGanes\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2636EFA9-098E-4112-A9AD-DBF58E57DA1D}|WebApplicationGanes\\WebApplicationGanes.csproj|solutionrelative:webapplicationGanes\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2636EFA9-098E-4112-A9AD-DBF58E57DA1D}|WebApplicationGanes\\WebApplicationGanes.csproj|d:\\repo praktikum kpl\\08_runtime_configuration_dan_internationalization\\guided modul 8 Ganes\\webapplicationGanes\\webapplicationGanes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2636EFA9-098E-4112-A9AD-DBF58E57DA1D}|WebApplicationGanes\\WebApplicationGanes.csproj|solutionrelative:webapplicationGanes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2636EFA9-098E-4112-A9AD-DBF58E57DA1D}|WebApplicationGanes\\WebApplicationGanes.csproj|d:\\repo praktikum kpl\\08_runtime_configuration_dan_internationalization\\guided modul 8 Ganes\\webapplicationGanes\\webapplicationGanes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2636EFA9-098E-4112-A9AD-DBF58E57DA1D}|WebApplicationGanes\\WebApplicationGanes.csproj|solutionrelative:webapplicationGanes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2636EFA9-098E-4112-A9AD-DBF58E57DA1D}|WebApplicationGanes\\WebApplicationGanes.csproj|d:\\repo praktikum kpl\\08_runtime_configuration_dan_internationalization\\guided modul 8 Ganes\\webapplicationGanes\\webapplicationGanes\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2636EFA9-098E-4112-A9AD-DBF58E57DA1D}|WebApplicationGanes\\WebApplicationGanes.csproj|solutionrelative:webapplicationGanes\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2636EFA9-098E-4112-A9AD-DBF58E57DA1D}|WebApplicationGanes\\WebApplicationGanes.csproj|d:\\repo praktikum kpl\\08_runtime_configuration_dan_internationalization\\guided modul 8 Ganes\\webapplicationGanes\\webapplicationGanes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2636EFA9-098E-4112-A9AD-DBF58E57DA1D}|WebApplicationGanes\\WebApplicationGanes.csproj|solutionrelative:webapplicationGanes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2636EFA9-098E-4112-A9AD-DBF58E57DA1D}|WebApplicationGanes\\WebApplicationGanes.csproj|d:\\repo praktikum kpl\\08_runtime_configuration_dan_internationalization\\guided modul 8 Ganes\\webapplicationGanes\\webapplicationGanes\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2636EFA9-098E-4112-A9AD-DBF58E57DA1D}|WebApplicationGanes\\WebApplicationGanes.csproj|solutionrelative:webapplicationGanes\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2636EFA9-098E-4112-A9AD-DBF58E57DA1D}|WebApplicationGanes\\WebApplicationGanes.csproj|d:\\repo praktikum kpl\\08_runtime_configuration_dan_internationalization\\guided modul 8 Ganes\\webapplicationGanes\\webapplicationGanes\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2636EFA9-098E-4112-A9AD-DBF58E57DA1D}|WebApplicationGanes\\WebApplicationGanes.csproj|solutionrelative:webapplicationGanes\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Repo Praktikum Kpl\\08_Runtime_Configuration_dan_Internationalization\\Guided Modul 8 Ganes\\WebApplicationGanes\\WebApplicationGanes\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationGanes\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Repo Praktikum Kpl\\08_Runtime_Configuration_dan_Internationalization\\Guided Modul 8 Ganes\\WebApplicationGanes\\WebApplicationGanes\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplicationGanes\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T18:34:01.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Repo Praktikum Kpl\\08_Runtime_Configuration_dan_Internationalization\\Guided Modul 8 Ganes\\WebApplicationGanes\\WebApplicationGanes\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationGanes\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Repo Praktikum Kpl\\08_Runtime_Configuration_dan_Internationalization\\Guided Modul 8 Ganes\\WebApplicationGanes\\WebApplicationGanes\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplicationGanes\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T18:34:00.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Repo Praktikum Kpl\\08_Runtime_Configuration_dan_Internationalization\\Guided Modul 8 Ganes\\WebApplicationGanes\\WebApplicationGanes\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplicationGanes\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Repo Praktikum Kpl\\08_Runtime_Configuration_dan_Internationalization\\Guided Modul 8 Ganes\\WebApplicationGanes\\WebApplicationGanes\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplicationGanes\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T18:10:51.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Repo Praktikum Kpl\\08_Runtime_Configuration_dan_Internationalization\\Guided Modul 8 Ganes\\WebApplicationGanes\\WebApplicationGanes\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplicationGanes\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Repo Praktikum Kpl\\08_Runtime_Configuration_dan_Internationalization\\Guided Modul 8 Ganes\\WebApplicationGanes\\WebApplicationGanes\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplicationGanes\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T18:10:48.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fr.po",
+              "DocumentMoniker": "D:\\Repo Praktikum Kpl\\08_Runtime_Configuration_dan_Internationalization\\Guided Modul 8 Ganes\\WebApplicationGanes\\WebApplicationGanes\\fr.po",
+              "RelativeDocumentMoniker": "WebApplicationGanes\\fr.po",
+              "ToolTip": "D:\\Repo Praktikum Kpl\\08_Runtime_Configuration_dan_Internationalization\\Guided Modul 8 Ganes\\WebApplicationGanes\\WebApplicationGanes\\fr.po",
+              "RelativeToolTip": "WebApplicationGanes\\fr.po",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-18T18:05:25.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Repo Praktikum Kpl\\08_Runtime_Configuration_dan_Internationalization\\Guided Modul 8 Ganes\\WebApplicationGanes\\WebApplicationGanes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationGanes\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Repo Praktikum Kpl\\08_Runtime_Configuration_dan_Internationalization\\Guided Modul 8 Ganes\\WebApplicationGanes\\WebApplicationGanes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplicationGanes\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T18:34:50.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Repo Praktikum Kpl\\08_Runtime_Configuration_dan_Internationalization\\Guided Modul 8 Ganes\\WebApplicationGanes\\WebApplicationGanes\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationGanes\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Repo Praktikum Kpl\\08_Runtime_Configuration_dan_Internationalization\\Guided Modul 8 Ganes\\WebApplicationGanes\\WebApplicationGanes\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplicationGanes\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T18:34:04.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repo Praktikum Kpl\\08_Runtime_Configuration_dan_Internationalization\\Guided Modul 8 Ganes\\WebApplicationGanes\\WebApplicationGanes\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationGanes\\Program.cs",
+              "ToolTip": "D:\\Repo Praktikum Kpl\\08_Runtime_Configuration_dan_Internationalization\\Guided Modul 8 Ganes\\WebApplicationGanes\\WebApplicationGanes\\Program.cs",
+              "RelativeToolTip": "WebApplicationGanes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:34:54.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Repo Praktikum Kpl\\08_Runtime_Configuration_dan_Internationalization\\Guided Modul 8 Ganes\\WebApplicationGanes\\WebApplicationGanes\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationGanes\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Repo Praktikum Kpl\\08_Runtime_Configuration_dan_Internationalization\\Guided Modul 8 Ganes\\WebApplicationGanes\\WebApplicationGanes\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplicationGanes\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T17:17:26.579Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
