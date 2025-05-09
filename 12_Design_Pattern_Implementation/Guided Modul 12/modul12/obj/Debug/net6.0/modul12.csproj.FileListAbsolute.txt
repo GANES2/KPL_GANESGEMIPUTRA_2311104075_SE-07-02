@@ -1,0 +1,12 @@
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\12_Design_Pattern_Implementation\Guided Modul 12\modul12\bin\Debug\net6.0\modul12.deps.json
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\12_Design_Pattern_Implementation\Guided Modul 12\modul12\bin\Debug\net6.0\modul12.dll
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\12_Design_Pattern_Implementation\Guided Modul 12\modul12\bin\Debug\net6.0\modul12.pdb
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\12_Design_Pattern_Implementation\Guided Modul 12\modul12\obj\Debug\net6.0\modul12.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\12_Design_Pattern_Implementation\Guided Modul 12\modul12\obj\Debug\net6.0\modul12.AssemblyInfoInputs.cache
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\12_Design_Pattern_Implementation\Guided Modul 12\modul12\obj\Debug\net6.0\modul12.AssemblyInfo.cs
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\12_Design_Pattern_Implementation\Guided Modul 12\modul12\obj\Debug\net6.0\modul12.csproj.CoreCompileInputs.cache
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\12_Design_Pattern_Implementation\Guided Modul 12\modul12\obj\Debug\net6.0\modul12.sourcelink.json
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\12_Design_Pattern_Implementation\Guided Modul 12\modul12\obj\Debug\net6.0\modul12.dll
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\12_Design_Pattern_Implementation\Guided Modul 12\modul12\obj\Debug\net6.0\refint\modul12.dll
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\12_Design_Pattern_Implementation\Guided Modul 12\modul12\obj\Debug\net6.0\modul12.pdb
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\12_Design_Pattern_Implementation\Guided Modul 12\modul12\obj\Debug\net6.0\ref\modul12.dll
