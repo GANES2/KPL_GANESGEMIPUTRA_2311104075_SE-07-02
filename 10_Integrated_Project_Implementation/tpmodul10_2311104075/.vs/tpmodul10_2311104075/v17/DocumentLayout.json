@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\10_Integrated_Project_Implementation\\tpmodul10_2311104075\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{110FDC4B-8F89-4148-957F-DB2323C30DB5}|ConsoleApp\\ConsoleApp.csproj|d:\\praktikum kontruksi perangkat lunak\\10_integrated_project_implementation\\tpmodul10_2311104075\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{110FDC4B-8F89-4148-957F-DB2323C30DB5}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110FDC4B-8F89-4148-957F-DB2323C30DB5}|ConsoleApp\\ConsoleApp.csproj|d:\\praktikum kontruksi perangkat lunak\\10_integrated_project_implementation\\tpmodul10_2311104075\\consoleapp\\consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{110FDC4B-8F89-4148-957F-DB2323C30DB5}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC57A6D-DFC5-41B7-BFBB-8C8E91EDC406}|ClassLibrary1\\AljabarLibraries.csproj|d:\\praktikum kontruksi perangkat lunak\\10_integrated_project_implementation\\tpmodul10_2311104075\\classlibrary1\\aljabarlibraries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC57A6D-DFC5-41B7-BFBB-8C8E91EDC406}|ClassLibrary1\\AljabarLibraries.csproj|solutionrelative:classlibrary1\\aljabarlibraries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleApp",
+              "DocumentMoniker": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\10_Integrated_Project_Implementation\\tpmodul10_2311104075\\ConsoleApp\\ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp\\ConsoleApp.csproj",
+              "ToolTip": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\10_Integrated_Project_Implementation\\tpmodul10_2311104075\\ConsoleApp\\ConsoleApp.csproj",
+              "RelativeToolTip": "ConsoleApp\\ConsoleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T02:29:16.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\10_Integrated_Project_Implementation\\tpmodul10_2311104075\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\10_Integrated_Project_Implementation\\tpmodul10_2311104075\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:24:46.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AljabarLibraries.cs",
+              "DocumentMoniker": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\10_Integrated_Project_Implementation\\tpmodul10_2311104075\\ClassLibrary1\\AljabarLibraries.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\AljabarLibraries.cs",
+              "ToolTip": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\10_Integrated_Project_Implementation\\tpmodul10_2311104075\\ClassLibrary1\\AljabarLibraries.cs",
+              "RelativeToolTip": "ClassLibrary1\\AljabarLibraries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:18:39.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
