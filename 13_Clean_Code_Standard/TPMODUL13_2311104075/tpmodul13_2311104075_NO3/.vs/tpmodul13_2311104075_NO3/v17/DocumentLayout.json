@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\13_Clean_Code_Standard\\TPMODUL13_2311104075\\tpmodul13_2311104075_NO3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58FF5BD3-D8FB-4E6F-A959-0577D4F2B539}|tpmodul13_2311104075_NO3\\tpmodul13_2311104075_NO3.csproj|d:\\praktikum kontruksi perangkat lunak\\13_clean_code_standard\\tpmodul13_2311104075\\tpmodul13_2311104075_no3\\tpmodul13_2311104075_no3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FF5BD3-D8FB-4E6F-A959-0577D4F2B539}|tpmodul13_2311104075_NO3\\tpmodul13_2311104075_NO3.csproj|solutionrelative:tpmodul13_2311104075_no3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FF5BD3-D8FB-4E6F-A959-0577D4F2B539}|tpmodul13_2311104075_NO3\\tpmodul13_2311104075_NO3.csproj|d:\\praktikum kontruksi perangkat lunak\\13_clean_code_standard\\tpmodul13_2311104075\\tpmodul13_2311104075_no3\\tpmodul13_2311104075_no3\\concreteobserverb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FF5BD3-D8FB-4E6F-A959-0577D4F2B539}|tpmodul13_2311104075_NO3\\tpmodul13_2311104075_NO3.csproj|solutionrelative:tpmodul13_2311104075_no3\\concreteobserverb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FF5BD3-D8FB-4E6F-A959-0577D4F2B539}|tpmodul13_2311104075_NO3\\tpmodul13_2311104075_NO3.csproj|d:\\praktikum kontruksi perangkat lunak\\13_clean_code_standard\\tpmodul13_2311104075\\tpmodul13_2311104075_no3\\tpmodul13_2311104075_no3\\concreteobservera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FF5BD3-D8FB-4E6F-A959-0577D4F2B539}|tpmodul13_2311104075_NO3\\tpmodul13_2311104075_NO3.csproj|solutionrelative:tpmodul13_2311104075_no3\\concreteobservera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FF5BD3-D8FB-4E6F-A959-0577D4F2B539}|tpmodul13_2311104075_NO3\\tpmodul13_2311104075_NO3.csproj|d:\\praktikum kontruksi perangkat lunak\\13_clean_code_standard\\tpmodul13_2311104075\\tpmodul13_2311104075_no3\\tpmodul13_2311104075_no3\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FF5BD3-D8FB-4E6F-A959-0577D4F2B539}|tpmodul13_2311104075_NO3\\tpmodul13_2311104075_NO3.csproj|solutionrelative:tpmodul13_2311104075_no3\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FF5BD3-D8FB-4E6F-A959-0577D4F2B539}|tpmodul13_2311104075_NO3\\tpmodul13_2311104075_NO3.csproj|d:\\praktikum kontruksi perangkat lunak\\13_clean_code_standard\\tpmodul13_2311104075\\tpmodul13_2311104075_no3\\tpmodul13_2311104075_no3\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FF5BD3-D8FB-4E6F-A959-0577D4F2B539}|tpmodul13_2311104075_NO3\\tpmodul13_2311104075_NO3.csproj|solutionrelative:tpmodul13_2311104075_no3\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FF5BD3-D8FB-4E6F-A959-0577D4F2B539}|tpmodul13_2311104075_NO3\\tpmodul13_2311104075_NO3.csproj|d:\\praktikum kontruksi perangkat lunak\\13_clean_code_standard\\tpmodul13_2311104075\\tpmodul13_2311104075_no3\\tpmodul13_2311104075_no3\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FF5BD3-D8FB-4E6F-A959-0577D4F2B539}|tpmodul13_2311104075_NO3\\tpmodul13_2311104075_NO3.csproj|solutionrelative:tpmodul13_2311104075_no3\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 232,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConcreteObserverB.cs",
+              "DocumentMoniker": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\13_Clean_Code_Standard\\TPMODUL13_2311104075\\tpmodul13_2311104075_NO3\\tpmodul13_2311104075_NO3\\ConcreteObserverB.cs",
+              "RelativeDocumentMoniker": "tpmodul13_2311104075_NO3\\ConcreteObserverB.cs",
+              "ToolTip": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\13_Clean_Code_Standard\\TPMODUL13_2311104075\\tpmodul13_2311104075_NO3\\tpmodul13_2311104075_NO3\\ConcreteObserverB.cs",
+              "RelativeToolTip": "tpmodul13_2311104075_NO3\\ConcreteObserverB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:17:07.664Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\13_Clean_Code_Standard\\TPMODUL13_2311104075\\tpmodul13_2311104075_NO3\\tpmodul13_2311104075_NO3\\Subject.cs",
+              "RelativeDocumentMoniker": "tpmodul13_2311104075_NO3\\Subject.cs",
+              "ToolTip": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\13_Clean_Code_Standard\\TPMODUL13_2311104075\\tpmodul13_2311104075_NO3\\tpmodul13_2311104075_NO3\\Subject.cs",
+              "RelativeToolTip": "tpmodul13_2311104075_NO3\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:17:55.182Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\13_Clean_Code_Standard\\TPMODUL13_2311104075\\tpmodul13_2311104075_NO3\\tpmodul13_2311104075_NO3\\IObserver.cs",
+              "RelativeDocumentMoniker": "tpmodul13_2311104075_NO3\\IObserver.cs",
+              "ToolTip": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\13_Clean_Code_Standard\\TPMODUL13_2311104075\\tpmodul13_2311104075_NO3\\tpmodul13_2311104075_NO3\\IObserver.cs",
+              "RelativeToolTip": "tpmodul13_2311104075_NO3\\IObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:17:35.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConcreteObserverA.cs",
+              "DocumentMoniker": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\13_Clean_Code_Standard\\TPMODUL13_2311104075\\tpmodul13_2311104075_NO3\\tpmodul13_2311104075_NO3\\ConcreteObserverA.cs",
+              "RelativeDocumentMoniker": "tpmodul13_2311104075_NO3\\ConcreteObserverA.cs",
+              "ToolTip": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\13_Clean_Code_Standard\\TPMODUL13_2311104075\\tpmodul13_2311104075_NO3\\tpmodul13_2311104075_NO3\\ConcreteObserverA.cs",
+              "RelativeToolTip": "tpmodul13_2311104075_NO3\\ConcreteObserverA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:16:40.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISubject.cs",
+              "DocumentMoniker": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\13_Clean_Code_Standard\\TPMODUL13_2311104075\\tpmodul13_2311104075_NO3\\tpmodul13_2311104075_NO3\\ISubject.cs",
+              "RelativeDocumentMoniker": "tpmodul13_2311104075_NO3\\ISubject.cs",
+              "ToolTip": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\13_Clean_Code_Standard\\TPMODUL13_2311104075\\tpmodul13_2311104075_NO3\\tpmodul13_2311104075_NO3\\ISubject.cs",
+              "RelativeToolTip": "tpmodul13_2311104075_NO3\\ISubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:16:16.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\13_Clean_Code_Standard\\TPMODUL13_2311104075\\tpmodul13_2311104075_NO3\\tpmodul13_2311104075_NO3\\Program.cs",
+              "RelativeDocumentMoniker": "tpmodul13_2311104075_NO3\\Program.cs",
+              "ToolTip": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\13_Clean_Code_Standard\\TPMODUL13_2311104075\\tpmodul13_2311104075_NO3\\tpmodul13_2311104075_NO3\\Program.cs",
+              "RelativeToolTip": "tpmodul13_2311104075_NO3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:13:49.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
