@@ -1,0 +1,38 @@
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\ShowCase\bin\Debug\net8.0\ShowCase.exe
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\ShowCase\bin\Debug\net8.0\ShowCase.deps.json
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\ShowCase\bin\Debug\net8.0\ShowCase.runtimeconfig.json
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\ShowCase\bin\Debug\net8.0\ShowCase.dll
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\ShowCase\bin\Debug\net8.0\ShowCase.pdb
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\ShowCase\bin\Debug\net8.0\StringLibrary.dll
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\ShowCase\bin\Debug\net8.0\StringLibrary.pdb
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.csproj.AssemblyReference.cache
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.AssemblyInfoInputs.cache
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.AssemblyInfo.cs
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.csproj.CoreCompileInputs.cache
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.sourcelink.json
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.csproj.Up2Date
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.dll
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\refint\ShowCase.dll
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.pdb
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.genruntimeconfig.cache
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ref\ShowCase.dll
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\ShowCase\bin\Debug\net8.0\ShowCase.exe
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\ShowCase\bin\Debug\net8.0\ShowCase.deps.json
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\ShowCase\bin\Debug\net8.0\ShowCase.runtimeconfig.json
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\ShowCase\bin\Debug\net8.0\ShowCase.dll
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\ShowCase\bin\Debug\net8.0\ShowCase.pdb
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\ShowCase\bin\Debug\net8.0\StringLibrary.dll
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\ShowCase\bin\Debug\net8.0\StringLibrary.pdb
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.csproj.AssemblyReference.cache
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.AssemblyInfoInputs.cache
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.AssemblyInfo.cs
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.csproj.CoreCompileInputs.cache
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.sourcelink.json
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.csproj.Up2Date
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.dll
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\refint\ShowCase.dll
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.pdb
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ShowCase.genruntimeconfig.cache
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\ShowCase\obj\Debug\net8.0\ref\ShowCase.dll

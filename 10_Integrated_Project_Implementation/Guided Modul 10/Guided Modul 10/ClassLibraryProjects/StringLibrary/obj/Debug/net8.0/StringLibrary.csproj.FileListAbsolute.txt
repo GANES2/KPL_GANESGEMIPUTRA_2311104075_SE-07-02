@@ -1,0 +1,24 @@
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\StringLibrary.deps.json
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\StringLibrary.dll
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\StringLibrary.pdb
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfoInputs.cache
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfo.cs
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.csproj.CoreCompileInputs.cache
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.sourcelink.json
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.dll
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\refint\StringLibrary.dll
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.pdb
+D:\Repo Praktikum Kpl\10_Library_Construction\Guided Modul 10\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\ref\StringLibrary.dll
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\StringLibrary.deps.json
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\StringLibrary.dll
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\StringLibrary.pdb
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfoInputs.cache
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfo.cs
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.csproj.CoreCompileInputs.cache
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.sourcelink.json
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.dll
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\refint\StringLibrary.dll
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.pdb
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\10_Integrated_Project_Implementation\Guided Modul 10\Guided Modul 10\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\ref\StringLibrary.dll
