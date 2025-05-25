@@ -1,0 +1,30 @@
+D:\Repo Praktikum Kpl\13_Design_Pattern_Implementation\Guided Modul 13\implement_dp\implement_dp\bin\Debug\net8.0\implement_dp.exe
+D:\Repo Praktikum Kpl\13_Design_Pattern_Implementation\Guided Modul 13\implement_dp\implement_dp\bin\Debug\net8.0\implement_dp.deps.json
+D:\Repo Praktikum Kpl\13_Design_Pattern_Implementation\Guided Modul 13\implement_dp\implement_dp\bin\Debug\net8.0\implement_dp.runtimeconfig.json
+D:\Repo Praktikum Kpl\13_Design_Pattern_Implementation\Guided Modul 13\implement_dp\implement_dp\bin\Debug\net8.0\implement_dp.dll
+D:\Repo Praktikum Kpl\13_Design_Pattern_Implementation\Guided Modul 13\implement_dp\implement_dp\bin\Debug\net8.0\implement_dp.pdb
+D:\Repo Praktikum Kpl\13_Design_Pattern_Implementation\Guided Modul 13\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo Praktikum Kpl\13_Design_Pattern_Implementation\Guided Modul 13\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.AssemblyInfoInputs.cache
+D:\Repo Praktikum Kpl\13_Design_Pattern_Implementation\Guided Modul 13\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.AssemblyInfo.cs
+D:\Repo Praktikum Kpl\13_Design_Pattern_Implementation\Guided Modul 13\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.csproj.CoreCompileInputs.cache
+D:\Repo Praktikum Kpl\13_Design_Pattern_Implementation\Guided Modul 13\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.sourcelink.json
+D:\Repo Praktikum Kpl\13_Design_Pattern_Implementation\Guided Modul 13\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.dll
+D:\Repo Praktikum Kpl\13_Design_Pattern_Implementation\Guided Modul 13\implement_dp\implement_dp\obj\Debug\net8.0\refint\implement_dp.dll
+D:\Repo Praktikum Kpl\13_Design_Pattern_Implementation\Guided Modul 13\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.pdb
+D:\Repo Praktikum Kpl\13_Design_Pattern_Implementation\Guided Modul 13\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.genruntimeconfig.cache
+D:\Repo Praktikum Kpl\13_Design_Pattern_Implementation\Guided Modul 13\implement_dp\implement_dp\obj\Debug\net8.0\ref\implement_dp.dll
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\13_Clean_Code_Standard\Guided Modul 13\Guided Modul 13\implement_dp\implement_dp\bin\Debug\net8.0\implement_dp.exe
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\13_Clean_Code_Standard\Guided Modul 13\Guided Modul 13\implement_dp\implement_dp\bin\Debug\net8.0\implement_dp.deps.json
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\13_Clean_Code_Standard\Guided Modul 13\Guided Modul 13\implement_dp\implement_dp\bin\Debug\net8.0\implement_dp.runtimeconfig.json
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\13_Clean_Code_Standard\Guided Modul 13\Guided Modul 13\implement_dp\implement_dp\bin\Debug\net8.0\implement_dp.dll
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\13_Clean_Code_Standard\Guided Modul 13\Guided Modul 13\implement_dp\implement_dp\bin\Debug\net8.0\implement_dp.pdb
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\13_Clean_Code_Standard\Guided Modul 13\Guided Modul 13\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\13_Clean_Code_Standard\Guided Modul 13\Guided Modul 13\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.AssemblyInfoInputs.cache
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\13_Clean_Code_Standard\Guided Modul 13\Guided Modul 13\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.AssemblyInfo.cs
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\13_Clean_Code_Standard\Guided Modul 13\Guided Modul 13\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.csproj.CoreCompileInputs.cache
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\13_Clean_Code_Standard\Guided Modul 13\Guided Modul 13\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.sourcelink.json
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\13_Clean_Code_Standard\Guided Modul 13\Guided Modul 13\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.dll
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\13_Clean_Code_Standard\Guided Modul 13\Guided Modul 13\implement_dp\implement_dp\obj\Debug\net8.0\refint\implement_dp.dll
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\13_Clean_Code_Standard\Guided Modul 13\Guided Modul 13\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.pdb
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\13_Clean_Code_Standard\Guided Modul 13\Guided Modul 13\implement_dp\implement_dp\obj\Debug\net8.0\implement_dp.genruntimeconfig.cache
+D:\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\13_Clean_Code_Standard\Guided Modul 13\Guided Modul 13\implement_dp\implement_dp\obj\Debug\net8.0\ref\implement_dp.dll
