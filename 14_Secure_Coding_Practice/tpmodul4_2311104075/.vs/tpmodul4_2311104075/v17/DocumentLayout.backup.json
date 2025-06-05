@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\14_Secure_Coding_Practice\\tpmodul4_2311104075\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B460E9CB-7B4E-4DEE-8316-498B22AA46A7}|tpmodul4_2311104075\\tpmodul4_2311104075.csproj|d:\\praktikum kontruksi perangkat lunak\\14_secure_coding_practice\\tpmodul4_2311104075\\tpmodul4_2311104075\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B460E9CB-7B4E-4DEE-8316-498B22AA46A7}|tpmodul4_2311104075\\tpmodul4_2311104075.csproj|solutionrelative:tpmodul4_2311104075\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B460E9CB-7B4E-4DEE-8316-498B22AA46A7}|tpmodul4_2311104075\\tpmodul4_2311104075.csproj|d:\\praktikum kontruksi perangkat lunak\\14_secure_coding_practice\\tpmodul4_2311104075\\tpmodul4_2311104075\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B460E9CB-7B4E-4DEE-8316-498B22AA46A7}|tpmodul4_2311104075\\tpmodul4_2311104075.csproj|solutionrelative:tpmodul4_2311104075\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B460E9CB-7B4E-4DEE-8316-498B22AA46A7}|tpmodul4_2311104075\\tpmodul4_2311104075.csproj|d:\\praktikum kontruksi perangkat lunak\\14_secure_coding_practice\\tpmodul4_2311104075\\tpmodul4_2311104075\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B460E9CB-7B4E-4DEE-8316-498B22AA46A7}|tpmodul4_2311104075\\tpmodul4_2311104075.csproj|solutionrelative:tpmodul4_2311104075\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoorMachine.cs",
+              "DocumentMoniker": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\14_Secure_Coding_Practice\\tpmodul4_2311104075\\tpmodul4_2311104075\\DoorMachine.cs",
+              "RelativeDocumentMoniker": "tpmodul4_2311104075\\DoorMachine.cs",
+              "ToolTip": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\14_Secure_Coding_Practice\\tpmodul4_2311104075\\tpmodul4_2311104075\\DoorMachine.cs",
+              "RelativeToolTip": "tpmodul4_2311104075\\DoorMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:39:34.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KodePos.cs",
+              "DocumentMoniker": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\14_Secure_Coding_Practice\\tpmodul4_2311104075\\tpmodul4_2311104075\\KodePos.cs",
+              "RelativeDocumentMoniker": "tpmodul4_2311104075\\KodePos.cs",
+              "ToolTip": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\14_Secure_Coding_Practice\\tpmodul4_2311104075\\tpmodul4_2311104075\\KodePos.cs",
+              "RelativeToolTip": "tpmodul4_2311104075\\KodePos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:37:41.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\14_Secure_Coding_Practice\\tpmodul4_2311104075\\tpmodul4_2311104075\\Program.cs",
+              "RelativeDocumentMoniker": "tpmodul4_2311104075\\Program.cs",
+              "ToolTip": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\14_Secure_Coding_Practice\\tpmodul4_2311104075\\tpmodul4_2311104075\\Program.cs",
+              "RelativeToolTip": "tpmodul4_2311104075\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:33:46.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
