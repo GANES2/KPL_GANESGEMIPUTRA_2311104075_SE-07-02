@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\06_Design_by_Contract_dan_Defensive_Programming\\tpmodul6_2311104075\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE853C0A-CBDD-4885-BB58-E3527925CB33}|tpmodul6_2311104075\\tpmodul6_2311104075.csproj|d:\\praktikum kontruksi perangkat lunak\\06_design_by_contract_dan_defensive_programming\\tpmodul6_2311104075\\tpmodul6_2311104075\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE853C0A-CBDD-4885-BB58-E3527925CB33}|tpmodul6_2311104075\\tpmodul6_2311104075.csproj|solutionrelative:tpmodul6_2311104075\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE853C0A-CBDD-4885-BB58-E3527925CB33}|tpmodul6_2311104075\\tpmodul6_2311104075.csproj|d:\\praktikum kontruksi perangkat lunak\\06_design_by_contract_dan_defensive_programming\\tpmodul6_2311104075\\tpmodul6_2311104075\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE853C0A-CBDD-4885-BB58-E3527925CB33}|tpmodul6_2311104075\\tpmodul6_2311104075.csproj|solutionrelative:tpmodul6_2311104075\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SayaTubeVideo.cs",
+              "DocumentMoniker": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\06_Design_by_Contract_dan_Defensive_Programming\\tpmodul6_2311104075\\tpmodul6_2311104075\\SayaTubeVideo.cs",
+              "RelativeDocumentMoniker": "tpmodul6_2311104075\\SayaTubeVideo.cs",
+              "ToolTip": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\06_Design_by_Contract_dan_Defensive_Programming\\tpmodul6_2311104075\\tpmodul6_2311104075\\SayaTubeVideo.cs",
+              "RelativeToolTip": "tpmodul6_2311104075\\SayaTubeVideo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T10:49:11.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\06_Design_by_Contract_dan_Defensive_Programming\\tpmodul6_2311104075\\tpmodul6_2311104075\\Program.cs",
+              "RelativeDocumentMoniker": "tpmodul6_2311104075\\Program.cs",
+              "ToolTip": "D:\\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\\06_Design_by_Contract_dan_Defensive_Programming\\tpmodul6_2311104075\\tpmodul6_2311104075\\Program.cs",
+              "RelativeToolTip": "tpmodul6_2311104075\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T10:48:39.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
